@@ -17,10 +17,3 @@ Follow these steps to get the Quantum Weather Simulator up and running on your l
 
 - Python 3.8 or higher
 - Quantum computing framework (e.g., Qiskit, Cirq)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/QuantumWeatherSimulator.git
-   cd QuantumWeatherSimulator
